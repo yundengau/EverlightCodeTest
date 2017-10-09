@@ -1,0 +1,16 @@
+E:\EverlightCodingTest\EverlightCodingTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\EverlightCodingTest\EverlightCodingTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\EverlightCodingTest\EverlightCodingTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\EverlightCodingTest\EverlightCodingTest.Tests\bin\Debug\EverlightCodingTest.Tests.dll
+E:\EverlightCodingTest\EverlightCodingTest.Tests\bin\Debug\EverlightCodingTest.Tests.pdb
+E:\EverlightCodingTest\EverlightCodingTest.Tests\bin\Debug\EverlightCodingTest.exe
+E:\EverlightCodingTest\EverlightCodingTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\EverlightCodingTest\EverlightCodingTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\EverlightCodingTest\EverlightCodingTest.Tests\bin\Debug\EverlightCodingTest.pdb
+E:\EverlightCodingTest\EverlightCodingTest.Tests\bin\Debug\EverlightCodingTest.exe.config
+E:\EverlightCodingTest\EverlightCodingTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\EverlightCodingTest\EverlightCodingTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\EverlightCodingTest\EverlightCodingTest.Tests\obj\Debug\EverlightCodingTest.Tests.csprojResolveAssemblyReference.cache
+E:\EverlightCodingTest\EverlightCodingTest.Tests\obj\Debug\EverlightCodingTest.Tests.csproj.CoreCompileInputs.cache
+E:\EverlightCodingTest\EverlightCodingTest.Tests\obj\Debug\EverlightCodingTest.Tests.dll
+E:\EverlightCodingTest\EverlightCodingTest.Tests\obj\Debug\EverlightCodingTest.Tests.pdb

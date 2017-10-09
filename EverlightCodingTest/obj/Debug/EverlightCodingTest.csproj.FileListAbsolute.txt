@@ -1,0 +1,7 @@
+E:\EverlightCodingTest\EverlightCodingTest\bin\Debug\EverlightCodingTest.exe.config
+E:\EverlightCodingTest\EverlightCodingTest\bin\Debug\EverlightCodingTest.exe
+E:\EverlightCodingTest\EverlightCodingTest\bin\Debug\EverlightCodingTest.pdb
+E:\EverlightCodingTest\EverlightCodingTest\obj\Debug\EverlightCodingTest.csprojResolveAssemblyReference.cache
+E:\EverlightCodingTest\EverlightCodingTest\obj\Debug\EverlightCodingTest.csproj.CoreCompileInputs.cache
+E:\EverlightCodingTest\EverlightCodingTest\obj\Debug\EverlightCodingTest.exe
+E:\EverlightCodingTest\EverlightCodingTest\obj\Debug\EverlightCodingTest.pdb

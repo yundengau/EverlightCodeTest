@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EverlightCodingTest", "EverlightCodingTest\EverlightCodingTest.csproj", "{2B61BB7B-4E45-4EC4-AC46-20BD7B17B750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EverlightCodingTest.Tests", "EverlightCodingTest.Tests\EverlightCodingTest.Tests.csproj", "{FED8AC63-FFF4-483F-B9AF-7B1CEEA9AB05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B61BB7B-4E45-4EC4-AC46-20BD7B17B750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B61BB7B-4E45-4EC4-AC46-20BD7B17B750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B61BB7B-4E45-4EC4-AC46-20BD7B17B750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B61BB7B-4E45-4EC4-AC46-20BD7B17B750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED8AC63-FFF4-483F-B9AF-7B1CEEA9AB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED8AC63-FFF4-483F-B9AF-7B1CEEA9AB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED8AC63-FFF4-483F-B9AF-7B1CEEA9AB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED8AC63-FFF4-483F-B9AF-7B1CEEA9AB05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B15EE3C8-4043-44F7-BB15-22DB201E7405}
+	EndGlobalSection
+EndGlobal
